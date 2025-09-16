@@ -22,12 +22,11 @@
 
 ## 📊 Statystyki GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koala-Szef&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koala-Szef&layout=compact&theme=tokyonight)
 
 ---
 
 ## ⏱️ Aktywność w kodzie (WakaTime)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Koala-Szef&theme=tokyonight)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=501d65a2-b99a-4d45-8fc3-ea7cc4cf4010&theme=tokyonight)
 
 ---
 
